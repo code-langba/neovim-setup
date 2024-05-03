@@ -1,4 +1,5 @@
 require "nvchad.options"
+require "set"
 
 -- add yours here!
 
