@@ -8,8 +8,9 @@ Process of setting up [Neovim](https://github.com/neovim/neovim) with [NvChad](h
 2. [Installation](#installation)
 3. [Post Installation](#post-installation)
 4. [Useful bindings](#useful-bindings)
+5. [Additional](#additional)
 
-## Prerequisites [🔝](#contents)
+## <div id="prerequisites">Prerequisites [🔝](#contents)</div>
 
 Things you'll need:
 
@@ -43,7 +44,7 @@ choco install tree-sitter -y
 choco install ripgrep -y
 ```
 
-## Installation
+## <div id="installation">Installation [🔝](#contents)</div>
 
 - Install Neovim
 
@@ -58,7 +59,7 @@ git clone https://github.com/code-langba/neovim-setup $ENV:USERPROFILE\AppData\L
 nvim
 ```
 
-## <h2 id="post-installation">Post installation [🔝](#contents)</h2>
+## <div id="post-installation">Post installation [🔝](#contents)</div>
 
 - After installing all the plugins, install some lsp servers within neovim for autocompletion.
 
@@ -72,14 +73,14 @@ MasonInstall typescript-language-server css-lsp html-lsp lua-language-server tai
 TSInstall tsx javascript typescript
 ```
 
-## Useful bindings [🔝](#contents)
+## <div id="useful-bindings">Useful bindings [🔝](#contents)</div>
 
 - space + ch for cheatsheet
 - space + ff find files within project
 - space + fa find
 - space + fw grep words
 
-## Additional [🔝](#contents)
+## <div id="additional">Additional [🔝](#contents)</div>
 
 🐞 Some solutions if things don't work.
 
