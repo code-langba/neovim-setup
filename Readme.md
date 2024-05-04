@@ -58,7 +58,7 @@ git clone https://github.com/code-langba/neovim-setup $ENV:USERPROFILE\AppData\L
 nvim
 ```
 
-## <a href="#post-installation">Post installation</a> [🔝](#contents)
+## <h2 id="#post-installation">Post installation [🔝](#contents)</h2>
 
 - After installing all the plugins, install some lsp servers within neovim for autocompletion.
 
