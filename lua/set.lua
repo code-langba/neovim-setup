@@ -5,4 +5,3 @@ wo.relativenumber = true
 local o = vim.o
 
 o.scrolloff = 10
-o.shell = "powershell"
